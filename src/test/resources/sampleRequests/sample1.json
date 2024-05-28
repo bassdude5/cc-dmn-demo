@@ -1,0 +1,18 @@
+{
+    "creditTransaction": {
+      "accountNumber": "acc123",
+      "amount": 3,
+      "history": [
+        {
+          "accountNumber": "acc123",
+          "mcc": 111,
+          "amount": 1
+        },
+        {
+          "accountNumber": "acc123",
+          "mcc": 111,
+          "amount": 1
+        }
+      ]
+    }
+  }

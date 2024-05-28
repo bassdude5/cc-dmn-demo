@@ -1,0 +1,43 @@
+{
+    "creditTransaction": {
+      "accountNumber": "A12345678",
+      "amount": 1000,
+      "history": [
+        {
+          "accountNumber": "A12345678",
+          "amount": 600,
+          "mcc": 333
+        },
+        {
+          "accountNumber": "A12345678",
+          "amount": 500,
+          "mcc": 111
+        },
+        {
+            "accountNumber": "A12345678",
+            "amount": 3000,
+            "mcc": 222
+        },
+        {
+            "accountNumber": "A12345678",
+            "amount": 100,
+            "mcc": 222
+        },
+        {
+            "accountNumber": "A12345678",
+            "amount": 300,
+            "mcc": 111
+        },
+        {
+            "accountNumber": "A12345678",
+            "amount": 600,
+            "mcc": 111
+        },
+        {
+            "accountNumber": "A12345678",
+            "amount": 1000,
+            "mcc": 123
+        }
+      ]
+    }
+}
