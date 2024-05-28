@@ -14,7 +14,7 @@ To build the project, simply run a mvn clean install from your command line
 To run the quarkus based DMN service in dev mode, run <code>mvn clean compile quarkus:dev</code> and wait for the service to come up
 
 ## Testing
-To test the project, see <code>...\src\test\resources\sampleRequests</code> for 3 different .json files that you can run via the Swagger ([http](http://localhost:8080/q/swagger-ui/), use the POST on/CreditTransaction) or via running curl (See below) or loading the request into another rest client (eg postman)
+To test the project, see <code>...\src\test\resources\sampleRequests</code> for 3 different .json files that you can run via the Swagger ([http://localhost:8080/q/swagger-ui/](http://localhost:8080/q/swagger-ui/), use the POST on/CreditTransaction) or via running curl (See below) or loading the request into another rest client (eg postman)
 
 ### Sample curl, using sample1.json as a request
 
